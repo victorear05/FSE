@@ -7,4 +7,6 @@ O projeto tem finalidade de simular a leitura e tratamento dos dados de temperat
 ## Executando 
 Basta abrir o menu config e colocar as credenciais para conexão Wifi e o acess token do seu dispositivo no Things Board. Após isso, buildar e enviar o código à ESP32.  
 
-[Enunciado do trabalho](https://gitlab.com/fse_fga/trabalhos-2022_1/trabalho-3-2022-1)
+
+[Vídeo de apresentação do Trabalho](https://drive.google.com/file/d/1Uw7jB5bzEfD-ceJOnRideDtdqdm9w04U/view?usp=sharing)
+[Enunciado do Trabalho](https://gitlab.com/fse_fga/trabalhos-2022_1/trabalho-3-2022-1)
